@@ -1,3 +1,8 @@
+// Name   :   Two Sum
+// URL    :   https://leetcode.com/problems/two-sum/description/
+// Github :   https://github.com/AfshinMoussavi
+
+
 func twoSum(nums []int, target int) []int {
     
     for i, item := range nums{
